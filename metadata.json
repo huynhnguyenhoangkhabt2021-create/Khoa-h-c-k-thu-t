@@ -1,0 +1,7 @@
+{
+  "name": "Smart Healthcare",
+  "description": "Thiết bị chăm sóc sức khỏe thông minh cho người cao tuổi theo thời gian thực",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
